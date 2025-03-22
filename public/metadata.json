@@ -1,6 +1,16 @@
 {
-  "name": “Duckie”,
-  "symbol": “DCKIE”,
+  "name": "Duckie",
+  "symbol": "DCKIE",
   "description": "The coolest duck on the Solana ecosystem. Fun, memes and gains! Let's bring this to the moon!",
-  "image": "https://duckieonsol.vercel.app/logo.jpg"
+  "image": "https://duckieonsol.vercel.app/logo.jpg",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://duckieonsol.vercel.app/logo.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
 }
+
